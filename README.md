@@ -17,4 +17,5 @@ This project was made by me and my friend for our minor project in persuit of ou
 ```
 
 <p><img src='screenshot.png'></p>
-### A snapshot of working of the chatbot
+
+A snapshot of working of the chatbot
